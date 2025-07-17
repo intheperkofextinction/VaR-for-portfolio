@@ -85,10 +85,10 @@ The dashboard aligns with Basel III risk standards and supports compliance monit
 
 ## Dashboard preview
 
-[1](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133823.png)
-[2](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133851.png)
-[3](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133919.png)
-[4](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133939.png)
+![1](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133823.png)
+![2](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133851.png)
+![3](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133919.png)
+![4](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133939.png)
 
 ---
 ## How to Run
