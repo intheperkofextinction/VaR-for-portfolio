@@ -63,11 +63,13 @@ This project explores the financial risk profile of a stock portfolio using Pyth
 
 ##  Key Insights
 
+![overview](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio%20Value%20Over%20Time.png)
 ![historical_method](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio_var_historical_method.png)
+![parametric method](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio%20parametric%20var.png)
+![montecarlo](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio%20monte%20carlo.png)
+![cvar](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/PortfolioVaR%20and%20CVar.png)
 
-- The portfolio exhibits moderate volatility with rare but notable tail risks.
-- Monte Carlo simulations highlight the probability of both upward and downward trends, helping assess expected uncertainty.
-- Power BI allows dynamic visualization and stakeholder-friendly reporting.
+
 
 ---
 
