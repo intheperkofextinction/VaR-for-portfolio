@@ -69,6 +69,20 @@ This project explores the financial risk profile of a stock portfolio using Pyth
 ![montecarlo](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio%20monte%20carlo.png)
 ![cvar](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/PortfolioVaR%20and%20CVar.png)
 
+The dashboard reveals critical risk exposure in the investment portfolio, highlighting assets with high volatility and underperformance.
+
+Using Value at Risk (VaR) and Conditional VaR (CVaR) models, we quantified potential losses with a 95% and 99% confidence level, aiding in proactive risk mitigation strategies.
+
+Sharpe and Sortino Ratios were used to evaluate risk-adjusted returns, uncovering which assets outperform others when adjusted for volatility and downside risk.
+
+The Monte Carlo simulation results provided a probabilistic range of future returns, helping forecast best-case, worst-case, and most-likely portfolio outcomes.
+
+Insights from the correlation heatmap helped in identifying overexposed sectors and in optimizing diversification to reduce systemic risk.
+
+With interactive Power BI visualizations, stakeholders can filter by asset class, time period, or risk metric to make data-driven decisions dynamically.
+
+The dashboard aligns with Basel III risk standards and supports compliance monitoring through clear metrics and visual indicators.
+
 
 
 ---
