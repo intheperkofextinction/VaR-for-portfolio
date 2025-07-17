@@ -6,12 +6,12 @@ This project explores the financial risk profile of a stock portfolio using Pyth
 
 ##  Project Highlights
 
-### ✅ Data
+###  Data
 - Historical stock data fetched using `yfinance`
 - Assets include individual stocks or ETFs (customizable)
 - [sample data](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/portfolio_daily_returns.csv)
 
-### ✅ Risk Metrics & Analysis Performed
+###  Risk Metrics & Analysis Performed
 - Value at Risk (VaR) at 95% confidence
 - Conditional Value at Risk (CVaR)
 - Rolling CVaR and Drawdown visualization
@@ -82,6 +82,36 @@ Insights from the correlation heatmap helped in identifying overexposed sectors 
 With interactive Power BI visualizations, stakeholders can filter by asset class, time period, or risk metric to make data-driven decisions dynamically.
 
 The dashboard aligns with Basel III risk standards and supports compliance monitoring through clear metrics and visual indicators.
+
+## Dashboard preview
+
+[1](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133823.png)
+[2](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133851.png)
+[3](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133919.png)
+[4](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Screenshot%202025-07-17%20133939.png)
+
+---
+## How to Run
+
+1. Clone this repo
+2. 
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
+Run notebooks in order inside /notebooks
+
+Use the output CSVs for building the Power BI dashboard
+
+Open .pbix file in Power BI Desktop to explore the visuals
+
+License:
+MIT License
+
+🙋‍♂ Author
+[A,al S]
+Aspiring Data Analyst / Financial Modeler
+amal17ek@gmail.com
 
 
 
