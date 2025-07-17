@@ -63,7 +63,7 @@ This project explores the financial risk profile of a stock portfolio using Pyth
 
 ##  Key Insights
 
-![dashbpard](Screenshot 2025-07-17 133823.png)
+![historical_method](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio_var_historical_method.png)
 
 - The portfolio exhibits moderate volatility with rare but notable tail risks.
 - Monte Carlo simulations highlight the probability of both upward and downward trends, helping assess expected uncertainty.
