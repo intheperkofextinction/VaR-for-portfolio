@@ -94,16 +94,16 @@ The dashboard aligns with Basel III risk standards and supports compliance monit
 ## How to Run
 
 1. Clone this repo
-2. 
-3. Install dependencies:
+   
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    
-Run notebooks in order inside /notebooks
+3. Run notebooks in order inside /notebooks
 
-Use the output CSVs for building the Power BI dashboard
+4. Use the output CSVs for building the Power BI dashboard
 
-Open .pbix file in Power BI Desktop to explore the visuals
+5. Open .pbix file in Power BI Desktop to explore the visuals
 
 License:
 MIT License
