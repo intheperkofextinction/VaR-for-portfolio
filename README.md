@@ -62,8 +62,8 @@ This project explores the financial risk profile of a stock portfolio using Pyth
 ---
 
 ##  Key Insights
+<img width="1579" height="1210" alt="image" src="https://github.com/user-attachments/assets/02544ee7-22a3-4215-abe4-ffb9347916c4" />
 
-![overview](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio%20Value%20Over%20Time.png)
 ![historical_method](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio_var_historical_method.png)
 ![parametric method](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio%20parametric%20var.png)
 ![montecarlo](https://github.com/intheperkofextinction/VaR-for-portfolio/blob/main/Portfolio%20monte%20carlo.png)
